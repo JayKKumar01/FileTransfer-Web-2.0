@@ -1,6 +1,6 @@
 # FileTransfer Web Application - iOS and Android
 
-[GitHub Pages](https://jaykkumar01.github.io/FileTransfer-Web-IOS-Android/)
+[GitHub Pages](https://jaykkumar01.github.io/FileTransfer-Web-2.0/)
 
 ## Overview
 
@@ -8,7 +8,7 @@ This web application enables peer-to-peer file transfer using PeerJS and is desi
 
 ## Live Demo
 
-Visit [FileTransfer Web App: (https://jaykkumar01.github.io/FileTransfer-Web-IOS-Android/)](https://jaykkumar01.github.io/FileTransfer-Web-IOS-Android/) for a live demo.
+Visit [FileTransfer Web App: (https://jaykkumar01.github.io/FileTransfer-Web-2.0/)](https://jaykkumar01.github.io/FileTransfer-Web-2.0/) for a live demo.
 
 ## Features
 
